@@ -85,9 +85,9 @@ After you're finished please remove all the comments and instructions!
 
 ## 🚀 Live Demo <a name="live-demo"></a>
 
-> Add a link to your deployed project.
+Live Demo Link
 
-- [Live Demo Link](https://yourdeployedapplicationlink.com)
+Not Available
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -100,8 +100,6 @@ To get a local copy up and running, follow these steps.
 
 ### Prerequisites
 
-In order to run this project you need:
-
 <!--
 Example command:
 
@@ -112,7 +110,9 @@ Example command:
 
 ### Setup
 
-Clone this repository to your desired folder:
+To clone this repo run this command
+
+git clone https://github.com/yaredtekle022/Hello-world.git
 
 <!--
 Example commands:
@@ -125,7 +125,7 @@ Example commands:
 
 ### Install
 
-Install this project with:
+npm install
 
 <!--
 Example command:
@@ -138,8 +138,6 @@ Example command:
 
 ### Usage
 
-To run the project, execute the following command:
-
 <!--
 Example command:
 
@@ -150,8 +148,6 @@ Example command:
 
 ### Run tests
 
-To run tests, run the following command:
-
 <!--
 Example command:
 
@@ -161,8 +157,6 @@ Example command:
 --->
 
 ### Deployment
-
-You can deploy this project using:
 
 <!--
 Example:
@@ -180,17 +174,11 @@ Example:
 
 > Mention all of the collaborators of this project.
 
-👤 **Author1**
+👤 **Author**
 
-- GitHub: [@githubhandle](https://github.com/githubhandle)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/linkedinhandle)
-
-👤 **Author2**
-
-- GitHub: [@githubhandle](https://github.com/githubhandle)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/linkedinhandle)
+- Github: [@githubhandle](https://github.com/yaredtekle022)
+- Twitter: [@twitterhandle](https://twitter.com/YaredTekle22)
+- LinkedIn: [LinkedIn](https://www.linkedin.com/in/yared-tekle-5708ba22b)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
